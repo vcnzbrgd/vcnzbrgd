@@ -3,7 +3,7 @@
 🏄🏻 I currently work as Quant Researcher for a fintech that produces systematic investment strategies  
 🎓 I hold a MSc in Economics and a Bsc in Finance from Bocconi University  
 🧑‍💻 Here I share some projects I developed in my free time  
-📫 You can reach me at: brigandi.vincenzo@yahoo.com  
+📫 You can reach me at: brigandi.vincenzo@yahoo.com or https://www.linkedin.com/in/vbrigandi-1995/  
 
 <!---
 vcnzbrgd/vcnzbrgd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
