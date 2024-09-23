@@ -1,4 +1,4 @@
-👋 Hi, I’m Vincenzo Brigandì
+👋 Hi, I’m Vincenzo Brigandì  
 💹 I’m interested in Quantitative Finance, Financial Machine Learning and Data Science  
 🏄🏻 I currently work as Quant at a Global Macro Hedge Fund
 🎓 I hold a MSc in Economics and a Bsc in Finance from Bocconi University  
